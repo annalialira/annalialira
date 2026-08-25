@@ -6,8 +6,6 @@ Tenho 20 anos e estou em busca da minha **primeira oportunidade de estágio** em
 
 Estou iniciando minha carreira com grande foco e interesse na área de **Back-end**, buscando constantemente novas formas de aprender e aplicar o desenvolvimento de software na prática.
 
-- 🎓 **Formação Atual:** Tecnólogo em Análise e Desenvolvimento de Sistemas — **UniSenac** (2025 - Cursando)
-- 🏫 **Formação Técnica:** Técnico em Informática integrado ao Ensino Médio — **Senac Distrito Criativo** (2022 - 2024)
 - 💡 **Foco:** Desenvolvimento Back-end, Python, Lógica de Programação e Banco de Dados
 - 📫 **Contato:** annalialira@gmail.com
 
