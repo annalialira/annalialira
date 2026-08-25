@@ -1,12 +1,5 @@
 # Olá, eu sou a Anna Lia 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annalialira&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalialira&layout=compact&theme=radial"/>
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 Tenho 20 anos e estou em busca da minha **primeira oportunidade de estágio** em Tecnologia. Ao longo da minha jornada, participei de programas marcantes como o **Geração Caldeira**, do Instituto Caldeira, onde expandi meus conhecimentos e habilidades. 
